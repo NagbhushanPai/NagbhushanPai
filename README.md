@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-Hey 👋, I’m Nagbhushan, a third-year B.Tech student in Cyber Physical Systems at Manipal Institute of Technology, Manipal, Karnataka. I’m obsessed with AI/ML, IoT, embedded systems, and building cutting-edge solutions that redefine technology. I code, tinker with hardware, and dream in binary—fueled by coffee and curiosity!
+Hey 👋, I’m Nagbhushan, a final year B.Tech student in Cyber Physical Systems at Manipal Institute of Technology, Manipal, Karnataka. I’m obsessed with AI/ML, IoT, embedded systems, and building cutting-edge solutions that redefine technology. I code, tinker with hardware, and dream in binary—fueled by coffee and curiosity!
 
 - 🌟 Focus: Machine Learning, Deep Learning, Computer Vision, IoT, Embedded Systems
 - 🎯 Mission: Innovating with algorithms and circuits to solve real-world challenges
