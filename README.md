@@ -1,5 +1,5 @@
 # Nagbhushan Pai 👨‍💻
-** Software Engineer | B.Tech Student @ MIT Manipal | Solving problems one at a time**
+**Software Engineer | B.Tech Student @ MIT Manipal | Solving problems one at a time**
 
 ---
 
@@ -13,14 +13,18 @@ Hey 👋, I’m Nagbhushan, a software engineer with hands-on experience across 
 ---
 
 ## 🛠️ Skills & Tools
-Check out my tech arsenal—visually charged and ready to rock:
 
-| **Category**         | **Tech Stack**                          |
-|----------------------|-----------------------------------------|
-| **Languages**        | Python 🐍, C/C++ ⚡                     |
-| **Frameworks**       | TensorFlow 🤖, PyTorch 🔥, OpenCV 👁️   |
-| **Tools**            | Linux 🐧, Arduino 🔌, Raspberry Pi 🐍   |
-| **Concepts**         | Data Structures & Algorithms, Parallel Computing, Computer Architecture, Operating Systems |
+Here’s a snapshot of the technologies I work with across software engineering, backend, frontend, and ML:
+
+| **Category**      | **Tech Stack**                                                                         |
+| ----------------- | -------------------------------------------------------------------------------------- |
+| **Languages**     | Python 🐍, JavaScript ⚡, TypeScript, Java, C/C++                                       |
+| **Frontend**      | React ⚛️, Next.js, HTML, CSS, Tailwind CSS                                             |
+| **Backend**       | Django, FastAPI, Node.js, Express.js                                                   |
+| **Databases**     | PostgreSQL 🐘, MongoDB 🍃, MySQL, Redis                                                |
+| **AI/ML**         | PyTorch 🔥, TensorFlow 🤖, OpenCV 👁️, LangChain, RAG, LLMs                            |
+| **Cloud & Tools** | AWS ☁️, Docker 🐳, Git, GitHub, Linux 🐧, Postman                                      |
+| **Concepts**      | Data Structures & Algorithms, REST APIs, OOP, Operating Systems, Computer Architecture |
 
 ---
 
