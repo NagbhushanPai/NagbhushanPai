@@ -28,19 +28,29 @@ Here’s a snapshot of the technologies I work with across software engineering,
 
 ---
 
-
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NagbhushanPai&show_icons=true&theme=neon-dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NagbhushanPai&layout=compact&theme=neon-dark)
+
+
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=NagbhushanPai&show_icons=true&theme=neon-dark&cache_seconds=1800)
+
+  
+
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NagbhushanPai&layout=compact&theme=neon-dark&cache_seconds=1800)
+
+
 
 ---
 
 ## 🏅 Trophies & Streaks
-![Trophies](https://github-profile-trophy.vercel.app/?username=NagbhushanPai&theme=radical&no-bg=true&column=3)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NagbhushanPai&theme=neon-dark)
 
----
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=NagbhushanPai&theme=radical&column=3&margin-w=8&margin-h=8&row=2)
+
+  
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NagbhushanPai&theme=neon-dark)
 ## 🤝 Connect with Me
 Let’s collaborate on the next big thing!  
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/nagbhushan-pai/)  
@@ -51,3 +61,4 @@ Let’s collaborate on the next big thing!
 ## 🚀 Let’s Build the Future!
 I’m always up for new projects, internships, or chats about AI/ML, IoT, and embedded systems. Explore my repos, drop a message, and let’s code something epic!
 
+just
