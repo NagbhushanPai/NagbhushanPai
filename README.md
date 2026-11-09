@@ -1,5 +1,5 @@
 # Nagbhushan Pai 👨‍💻
-**Software Engineer | B.Tech Student @ MIT Manipal | Solving problems one at a time**
+**Software Engineer | Solving problems one at a time**
 
 ---
 
@@ -61,4 +61,3 @@ Let’s collaborate on the next big thing!
 ## 🚀 Let’s Build the Future!
 I’m always up for new projects, internships, or chats about AI/ML, IoT, and embedded systems. Explore my repos, drop a message, and let’s code something epic!
 
-just
